@@ -1,0 +1,6 @@
+# Результати навчання ML — не завантажувати на GitHub
+results_ml_practice_3/
+
+# Python
+__pycache__/
+*.pyc
